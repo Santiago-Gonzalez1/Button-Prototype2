@@ -1,0 +1,65 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size:20px;
+  color:white;
+
+}
+
+.button {
+  margin-top: 5mm;
+  width: 70px;
+  height: 42px;
+  border-width: 0.75mm;
+  color: rgb(255, 248, 248);
+  border-radius: 40px;
+  border-color: grey;
+  ;
+} 
+
+.primary {
+
+  background-color: rgb(39, 175, 39);
+ }
+
+.secondary {
+  background-color: greenyellow;
+  margin-top: 0.05mm;
+}
+.exit {
+  background-color: red;
+  width:25px;
+  height:25px;
+  color:black;
+  align-content: center;
+  position: absolute;
+  top: 5px;
+  left: 330px;
+}
+
+h2{
+  color: rgb(25,77,140);
+  height: 100mm;
+  width: 100mm;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
+  align-items: center;
+  position: absolute;
+  top:170px;
+  
+  
+   }
+div{background: linear-gradient(0deg,#fff,rgb(25,50,130));
+    width: 350px;
+    height: 220px;;
+  margin-top: 5mm;
+}
+
+image{ display:flex;
+   border-width: 0.2mm;
+  border-color: rgb(15, 20, 15);
+border-style: solid;
+position: absolute;
+top:5mm;
+
+}
